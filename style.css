@@ -1,0 +1,99 @@
+body {
+    padding: 0px;
+    margin: 0px;
+
+    background-color: #253233;
+}
+
+@font-face {
+    font-family: nasal;
+    src: url(Assets/Fonts/NasalizationRg.otf);
+}
+
+@font-face {
+    font-family: spacegro;
+    src: url(Assets/Fonts/SpaceGrotesk-VariableFont_wght.ttf);
+}
+
+h1 {
+    font-size: 80px;
+    font-family: nasal;
+
+    color: #b7e1e6;
+}
+
+h2 {
+    font-size: 40px;
+    font-family: nasal;
+
+    color: #b7e1e6;
+}
+
+h3 {
+    font-family: nasal;
+
+    color: #b7e1e6;
+}
+
+p {
+    font-family: spacegro;
+
+    color: #809ea1;
+}
+
+li {
+    font-family: spacegro;
+
+    color: #809ea1;
+}
+
+.container {
+    background-color: #253233;
+    width: 70%;
+
+    margin: auto;
+    left: 25%;
+}
+
+.banner {
+    background-color: #4F686B;
+
+    text-align: center;
+    position: relative;
+
+    padding: 15px;
+}
+
+.banner img {
+    border: 0px, solid, #4F686B;
+
+    height: 500px;
+    width: 100%;
+}
+
+.banner .title {
+    position: absolute;
+
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.banner .title p {
+    font-family: nasal;
+    font-size: 200px;
+    color: #38D9EB;
+}
+
+.main {
+    background-color: #4F686B;
+
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+    margin-top: 25px;
+
+    height: 100%;
+}
