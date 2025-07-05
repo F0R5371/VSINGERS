@@ -1,5 +1,6 @@
 # VSingers
 Welcome to the VSingers repository, a place where all information about virtual singers and related topics can be found.
+If you see if any information you disagree with or would like to contribute please just reach out!
 
 ## Voicebanks
 Voice banks simply refer to a sound library that virtual singers are created on.
